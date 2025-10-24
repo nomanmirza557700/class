@@ -40,6 +40,9 @@
         width: 30%;
         padding-right: 15px ;
     }
+.logo-text h2{
+width:20px;
+}
     .header ul{
       width: 90%;
       padding-left: 450px;
@@ -516,3 +519,4 @@ transform: translateY(-5px);
   font-size: 16px;
 
 }
+
